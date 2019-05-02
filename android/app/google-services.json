@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "547866353125",
+    "firebase_url": "https://spinnerapp-1528449926729.firebaseio.com",
+    "project_id": "spinnerapp-1528449926729",
+    "storage_bucket": "spinnerapp-1528449926729.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547866353125:android:1d998300551a0981",
+        "android_client_info": {
+          "package_name": "com.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547866353125-guo3rku4ckliv1gc1a5834cgl54kbvj7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.myapp",
+            "certificate_hash": "5e433e56f28baf288b587659e5b3c6ef2ad5a146"
+          }
+        },
+        {
+          "client_id": "547866353125-a8rc02q8vprrou52lalhefrtkdgg13si.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy1xvaLXqPp7NI0tSlACXldFJbn0tvzgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "547866353125-a8rc02q8vprrou52lalhefrtkdgg13si.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
